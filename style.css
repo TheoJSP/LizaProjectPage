@@ -1,0 +1,134 @@
+body{
+	background-color:white; 
+	scroll-behavior: smooth;
+}
+
+.monserrat{
+font-family: 'Montserrat' sans-serif;
+}
+.conforta{
+	font-family: 'Comfortaa', cursive;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(205,20,60,1);
+    font-family: 'Montserrat' sans-serif;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	color:rgba(149,18,46,1);
+}
+
+/*header nav {
+	display: flex!important;
+	flex-direction: row!important;
+}
+header nav div{
+	margin-left:auto!important;
+}*/
+
+.card-title{
+	color:black!important;
+}
+.m-card{
+	margin-top:40px;
+}
+.m-card2{
+	margin-top:26em;
+
+}
+.con-contac{
+	margin-top: 60px;
+	text-align: center;
+	background-color:#f8f9fa;
+
+}
+.text-cont{
+	font-family: 'Montserrat', sans-serif;
+	margin-top:35px;
+  }	
+
+.creators-card{
+	text-align: center;
+
+	font-family: 'Montserrat', sans-serif;
+	border-color: #d63152;
+	border-radius: 20px;
+
+
+}
+.contp{
+	background-color: white;
+	margin: 20px 0px 20px 0px
+	margin-top:100px;
+	padding:20px 20px 20px 20px;
+}
+.contpg{
+	background-color: #f3f3f3;
+	margin: 20px 0px 20px 0px
+	margin-top:100px;
+	padding:20px 20px 20px 20px;
+}
+.img-contp{
+	border-radius:30px;
+}
+.til-contp{
+	font-family: 'Comfortaa', cursive;
+	color:rgba(205,20,60,1)!important;
+	text-align: center;
+	margin-top: 25px;
+
+}
+
+
+h3{
+	text-align: center;
+}
+.text-contp{
+	padding: 10px 10px 10px 10px;
+	margin:10px 10px 10px 10px;
+	text-align: center;
+	font-family: 'Comfortaa', cursive;
+}
+.m-form{
+margin: 30px 10px 10px 10px;
+
+}
+.til-home{
+	font-family: 'Comfortaa', cursive;
+	color:white!important;
+	text-align: center;
+	margin-top: 10em;
+
+}
+.text-home{
+	
+	text-align: center;
+	font-family: 'Comfortaa', cursive;
+}
+
+ .car-d{
+ 	background-color: #e51a4c;
+ 	border-color: #e51a4c;
+ }
+  .btn-light {
+    color:  #e51a4c;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+}
+.btn-light:hover{
+    color:  #c50635;
+}
+.p-d{
+		margin-top: 30px;
+	font-family: 'Comfortaa', cursive;
+
+
+}
+.color-a{
+	font-color:rgba(205,20,60,1);
+	color:rgba(205,20,60,1); 
+	}
+
+.color-a:hover{
+	font-color:rgba(175,19,53,1);
+	color:rgba(175,19,53,1);
+}
